@@ -8,3 +8,5 @@
 Birbey76/Birbey76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+seni_soyler_sozum
+faatmacirak nrmn_ygt
